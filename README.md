@@ -1,2 +1,2 @@
-# A2Z-DSA
+# DSA-JAVA
 DSA Practice 
